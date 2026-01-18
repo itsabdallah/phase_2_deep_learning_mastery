@@ -8,9 +8,10 @@ __pycache__/
 .venv/
 env/
 
-# Data
+# Datasets
 datasets/raw/
 datasets/processed/
+datasets/MNIST/raw
 
 # Experiments
 *.log
