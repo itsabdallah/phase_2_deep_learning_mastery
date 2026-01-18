@@ -4,6 +4,10 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Python cache
+__pycache__/
+*.pyc
+
 # Environments
 .venv/
 env/
@@ -21,3 +25,9 @@ datasets/MNIST/raw
 
 # OS
 .DS_Store
+
+
+# Datasets
+datasets/
+data/
+module_2_1_foundations/datasets/
