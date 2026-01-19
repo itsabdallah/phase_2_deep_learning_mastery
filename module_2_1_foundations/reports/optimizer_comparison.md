@@ -6,6 +6,11 @@
 - Same initialization, seed, batch size, epochs
 - Optimizers compared: SGD, SGD + Momentum, Adam
 
+
+## Results
+![Training Loss](optimizer_training_loss.png)
+
+
 ## Results Summary
 - SGD converged slowly but steadily, reaching ~86.5% validation accuracy.
 - SGD + Momentum converged faster and reached ~93.8% validation accuracy.
